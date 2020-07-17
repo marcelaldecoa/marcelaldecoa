@@ -6,7 +6,7 @@ I'm Marcel Aldecoa, based in Sao Paulo, Brazil.
 
 - 🙋‍♂️ Pronouns: He/Him
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelaldecoaS&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marcelaldecoa&show_icons=true)
 
 ## 📫 How to contact me
 
